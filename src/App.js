@@ -45,6 +45,9 @@ function App() {
                </div>
             </div>
         </div>
+        <div className="container">
+
+           <h2>محصولات</h2>
 
         <div className="products">
            <div className="productName">
@@ -96,6 +99,7 @@ function App() {
               </div>
            </div>
          
+        </div>
         </div>
      </div>
     );
